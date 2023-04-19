@@ -1,0 +1,5 @@
+﻿  cl_application.cpp
+C:\Users\titly\source\repos\kv_3\kv_3\cl_application.cpp(64,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  kv_3.cpp
+  Создание кода...
+  kv_3.vcxproj -> C:\Users\titly\source\repos\kv_3\x64\Debug\kv_3.exe
